@@ -2,6 +2,9 @@
 
 A comprehensive ATM (Automated Teller Machine) simulation system built in Java, demonstrating various design patterns and object-oriented programming principles.
 
+## UML Class Diagram
+![ClassDiagram](UML-Diagram-ATM.png)
+
 ## 📋 Table of Contents
 
 - [Features](#features)
